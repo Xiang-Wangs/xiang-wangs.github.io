@@ -85,6 +85,9 @@ for row, item in publications.iterrows():
     
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
+
+    if len(str(item.online_url)) > 5:
+        md += "\nonlineurl: '" + item.online_url + "'"
     
     md += "\ncitation: '" + html_escape(item.citation) + "'"
     
@@ -92,6 +95,9 @@ for row, item in publications.iterrows():
     
     ## Markdown description for individual page
     
+    if len(str(item.online_url)) > 5:
+        md += "\n\n<a href='" + item.online_url + "'>Read Online here</a>\n" 
+
     if len(str(item.paper_url)) > 5:
         md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
         

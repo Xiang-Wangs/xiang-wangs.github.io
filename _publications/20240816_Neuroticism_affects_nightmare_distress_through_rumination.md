@@ -7,6 +7,7 @@ excerpt: ''
 date: 2024-08-16
 venue: 'Sleep and Breathing'
 paperurl: 'http://xiang-wangs.github.io/files/20240816_Neuroticism_affects_nightmare_distress_through_rumination.pdf'
+onlineurl: 'https://link.springer.com/article/10.1007/s11325-024-03135-9'  
 citation: 'Wang X., Soondrum T., Dai L. (2024). &quot;Neuroticism affects nightmare distress through rumination.&quot; <i>Sleep and Breathing</i>. 28(6).'
 ---
 
