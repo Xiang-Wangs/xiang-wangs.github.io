@@ -1,7 +1,7 @@
 ---
 title: "Neuroticism affects nightmare distress through rumination"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/20240816_Neuroticism_affects_nightmare_distress_through_rumination
 excerpt: ''
 date: 2024-08-16
