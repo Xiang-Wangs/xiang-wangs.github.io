@@ -18,6 +18,10 @@ Highlights
 2. This dysconnectivity pattern was not affected by sex, which should be further replicated in larger samples.
 3. The altered FC of cerebellar-DLPFC was associated with anhedonia symptom in MDD.
 
+Dysconnectivity of Cerebellar-cerebral connectivity pattern
+------
+![Dysconnectivity of Cerebellar-cerebral connectivity pattern](/images/Articles/Cerebellum_Figure2.jpg)
+
 Abstract
 ======
 Cerebellar dysconnectivity has repeatedly been documented in major depressive disorder (MDD). The cerebellum is composed of multiple functionally distinct subunits, and whether those subunits show similar or distinct dysconnectivity patterns with the cerebrum in MDD, is still unclear and needs to be further clarified. In this study, 91 MDD patients (23 male and 68 female) and 59 demographically matched healthy controls (22 male and 37 female) were enrolled to explore the cerebellar-cerebral dysconnectivity pattern in MDD by using the cutting-edge cerebellar partition atlas. Results showed that MDD patients exhibit decreased cerebellar connectivity with cerebral regions of default mode (DMN), frontoparietal networks (FPN), and visual areas. The dysconnectivity pattern was statistically similar across cerebellar subunits, with no significant diagnosis-by-subunit interactions. Correlation analyzes showed that cerebellar-dorsal lateral prefrontal cortex (DLPFC) connectivity is significantly correlated with anhedonia in MDD patients. Such dysconnectivity pattern was not affected by sex, which, however, should be further replicated in larger samples. These findings suggest a generalized disrupted cerebellar-cerebral connectivity pattern in MDD across all cerebellar subunits, which partially accounts for depressive symptoms in MDD, thus highlighting the pivotal role of the disrupted connectivity of cerebellum with DMN and FPN in the neuropathology of depression.

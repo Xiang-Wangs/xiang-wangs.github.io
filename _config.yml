@@ -34,12 +34,13 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
+  orcid            : "https://orcid.org/0000-0003-0994-8124"
+  researchgate     : "https://www.researchgate.net/profile/Xiang-Wang-90"
   googlescholar    : "https://scholar.google.com/citations?user=lUH8Nl4AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-0994-8124"
+  
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Xiang-Wang-90"
   scopus           : # URL
 
   # Repositories and software development
