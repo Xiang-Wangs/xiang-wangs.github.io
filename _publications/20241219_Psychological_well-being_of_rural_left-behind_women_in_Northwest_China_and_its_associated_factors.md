@@ -9,7 +9,7 @@ venue: 'Frontiers in Public Health'
 #slidesurl: 'http://xiang-wangs.github.io/files/slides1.pdf'
 paperurl: 'http://xiang-wangs.github.io/files/20241219_Psychological_well-being_of_rural_left-behind_women_in_Northwest_China_and_its_associated_factors.pdf'
 onlineurl: 'https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1395996/full'      
-citation: 'Niu F., Wang X. (2024). &quot;Psychological well-being of rural left-behind women in Northwest China and its associated factors: a regional, population-based study.&quot; <i>Frontiers in Public Health</i>. 12:1395996.'
+citation: 'Niu F., <strong>Wang X.*</strong> (2024). &quot;Psychological well-being of rural left-behind women in Northwest China and its associated factors: a regional, population-based study.&quot; <i>Frontiers in Public Health</i>. 12:1395996.'
      
 ---
 Purpose: Growing awareness has highlighted the challenging living condition faced by rural left-behind women (RLW), yet their psychological well-being has not been fully investigated. This study aims to investigate the psychological well-being of RLW in Northwest China and exploring its associated factors.
