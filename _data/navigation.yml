@@ -6,22 +6,22 @@
 
 main:
   - title: "Publications"
-    url: xiang-wangs.fithub.io/publications/
+    url: xiang-wangs.github.io/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: xiang-wangs.github.io/talks/    
 
   - #title: "Teaching"
     #url: /teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: xiang-wangs.github.io/portfolio/
         
   - #title: "Blog Posts"
     #url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: xiang-wangs.github.io/cv/
     
   - title: "Guide"
-    url: /markdown/
+    url: xiang-wangs.github.io/markdown/
