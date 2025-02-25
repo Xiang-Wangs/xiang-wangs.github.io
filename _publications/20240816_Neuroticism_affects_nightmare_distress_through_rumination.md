@@ -8,7 +8,7 @@ date: 2024-08-16
 venue: 'Sleep and Breathing'
 paperurl: 'http://xiang-wangs.github.io/files/20240816_Neuroticism_affects_nightmare_distress_through_rumination.pdf'
 onlineurl: 'https://link.springer.com/article/10.1007/s11325-024-03135-9'  
-citation: 'Wang X., Soondrum T., Dai L. (2024). &quot;Neuroticism affects nightmare distress through rumination.&quot; <i>Sleep and Breathing</i>. 28(6).'
+citation: 'Wang X., Soondrum T., Dai L. (2024). &quot;Neuroticism affects nightmare distress through rumination.&quot; <i>Sleep and Breathing</i>. 28(6):2629-2637.'
 ---
 
 Background/Aims: The role of neuroticism in predicting nightmare distress have been highlighted, and negative coping style may contribute to this relationship, but how these variables interact is limited. The present study aimed to explore how neuroticism and ruminative response contribute to producing nightmare distress, and to explore whether sex influences this relationship. 
