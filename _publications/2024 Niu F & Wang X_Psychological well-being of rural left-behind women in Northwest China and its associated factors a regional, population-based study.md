@@ -2,7 +2,7 @@
 title: "Psychological well-being of rural left-behind women in Northwest China and its associated factors: a regional, population-based study"
 collection: publications
 category: manuscripts
-permalink: [[[/publication/2024 Niu F & Wang X_Psychological well-being of rural left-behind women in Northwest China and its associated factors a regional, population-based study]       
+permalink: /publication/2024 Niu F & Wang X_Psychological well-being of rural left-behind women in Northwest China and its associated factors a regional, population-based study.md       
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-12-19
 venue: 'Frontiers in Public Health'
