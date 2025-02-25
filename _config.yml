@@ -22,7 +22,7 @@ repository               : "xiang-wangs.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   name             : "Xiang Wang"
   pronouns         : "He/him"  
   bio              : "Ph.D. Psychiatrist"
