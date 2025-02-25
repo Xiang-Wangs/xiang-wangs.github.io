@@ -8,10 +8,10 @@ date: 2024-12-19
 venue: 'Frontiers in Public Health'
 #slidesurl: 'http://xiang-wangs.github.io/files/slides1.pdf'
 paperurl: 'http://xiang-wangs.github.io/files/20241219_Psychological_well-being_of_rural_left-behind_women_in_Northwest_China_and_its_associated_factors.pdf'
-ReadOnline: 'https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1395996/full'
 citation: 'Niu F., Wang X. (2024). &quot;Psychological well-being of rural left-behind women in Northwest China and its associated factors: a regional, population-based study.&quot; <i>Frontiers in Public Health</i>. 12(1395996).'
 ---
-
+[Read Online](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1395996/full)
+---
 Purpose: Growing awareness has highlighted the challenging living condition faced by rural left-behind women (RLW), yet their psychological well-being has not been fully investigated. This study aims to investigate the psychological well-being of RLW in Northwest China and exploring its associated factors.
 
 Samples and methods: A total of 697 RLW from five provincial regions were enrolled. Sociodemographic characteristics were collected using a set of researcher-designed questionnaires. Depression, anxiety, and feeling of security were assessed using the Zung’s self-rating depression scale (SDS), Zung’s self-rating anxiety scale (SAS), and security questionnaire (SQ), respectively.
