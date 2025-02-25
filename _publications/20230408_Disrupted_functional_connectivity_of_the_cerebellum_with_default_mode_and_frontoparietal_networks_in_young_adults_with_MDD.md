@@ -3,7 +3,7 @@ title: "Disrupted functional connectivity of the cerebellum with default mode an
 collection: publications
 category: manuscripts
 permalink: /publication/20230408_Disrupted_functional_connectivity_of_the_cerebellum_with_default_mode_and_frontoparietal_networks_in_young_adults_with_MDD       
-excerpt: 'This work revealed a widespread disrupted cerebellar-cerebral functional connectivity pattern in young adults with MDD diagnosis'
+#excerpt: ''
 date: 2023-04-08
 venue: 'Psychiatry Research'
 #slidesurl: 'http://xiang-wangs.github.io/files/slides1.pdf'
