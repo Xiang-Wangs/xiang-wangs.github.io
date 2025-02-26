@@ -1,9 +1,10 @@
 ---
-permalink: /projects
+permalink: /projects/
 title: "Projects"
 author_profile: true
 redirect_from:
-  - /project
+  - /projects/
+  - /projects.html
 ---
 
 {% include base_path %}
