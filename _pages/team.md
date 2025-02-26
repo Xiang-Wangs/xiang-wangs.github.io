@@ -4,6 +4,7 @@ title: "Team Members"
 permalink: /team/
 author_profile: true
 ---
+{% include base_path %}
 
 Our collaberators and members!
 
