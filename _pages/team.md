@@ -1,7 +1,6 @@
 ---
-layout: archive
-title: "Team members"
 permalink: /
+title: "Team members"
 author_profile: true
 redirect_from:
   - /team/
