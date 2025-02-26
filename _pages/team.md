@@ -13,8 +13,8 @@ Collaberators
 * <strong>Qian Liu</strong>
 <div style="display: flex;">
   <!-- 左侧列：占三分之一 -->
-  <div style="flex: 1; padding: 10px; width: 33%;">
-    <img src="/images/Qian_Liu_avatar.jpg" alt="Qian Liu" style="width: 150px; height: auto;" />
+  <div style="flex: 1; padding: 10px; width: 20%;">
+    <img src="/images/Qian_Liu_avatar.jpg" alt="Qian Liu" style="width: 200px; height: auto;" />
   </div>
   
   <!-- 右侧列：占三分之二 -->
