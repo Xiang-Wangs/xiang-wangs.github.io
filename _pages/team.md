@@ -22,5 +22,5 @@ Our collaborators and members!
 Qian Liu is currently a Ph.D candidate at Medical Psychological Center, the Second Xiangya Hospital of Central South University. She is working on a series of research programs related to “The neural mechanisms of obsessive-compulsive disorder” using multi-modal MRI and machine learning. Her Ph.D program is focused on the role of habenula in the pathology of OCD patients. Qian received her Master's degree in Psychology from the [South China Normal University](https://www.scnu.edu.cn/). 
   </div>
 </div>
-<!-- 细分割线 -->
-<hr style="border: 1px solid #ccc; width: 100%; margin-top: 20px;"/>
+<!-- 使用 box-shadow 模拟细分割线 -->
+<div style="box-shadow: 0 1px 0 0 #ccc; margin-top: 20px;"></div>
