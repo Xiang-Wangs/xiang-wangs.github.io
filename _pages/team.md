@@ -8,8 +8,7 @@ author_profile: true
 
 Our collaberators and members!
 
-Collaberators
-======
+## Collaberators
 * <strong>Qian Liu</strong>
 <div style="display: flex;">
   <!-- 左侧列：占三分之一 -->
