@@ -14,9 +14,9 @@ citation: '<strong>Wang X.</strong>, Xia J., Wang W., et al. (2024). &quot;Disru
 ---
 Highlights
 ======
-1. MDD patients showed a common connectivity disrupt pattern with cerebrum across all cerebellar subunits, which are primarily characterized by decreased coupling of cerebellum with the DMN, FPN regions of cerebrum.
-2. This dysconnectivity pattern was not affected by sex, which should be further replicated in larger samples.
-3. The altered FC of cerebellar-DLPFC was associated with anhedonia symptom in MDD.
+* MDD patients showed a common connectivity disrupt pattern with cerebrum across all cerebellar subunits, which are primarily characterized by decreased coupling of cerebellum with the DMN, FPN regions of cerebrum.
+* This dysconnectivity pattern was not affected by sex, which should be further replicated in larger samples.
+* The altered FC of cerebellar-DLPFC was associated with anhedonia symptom in MDD.
 
 Dysconnectivity of Cerebellar-cerebral connectivity pattern
 ------
