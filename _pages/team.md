@@ -23,4 +23,4 @@ Qian Liu is currently a Ph.D candidate at Medical Psychological Center, the Seco
   </div>
 </div>
 <!-- 使用 box-shadow 模拟细分割线 -->
-<div style="box-shadow: 0 1px 0 0 #ccc; margin-top: 20px;"></div>
+<div style="box-shadow: 0 0.5px 0 0 #ccc; margin-top: 20px;"></div>
