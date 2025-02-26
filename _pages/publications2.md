@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Publications"
 author_profile: true
 redirect_from: 
   - /publications/
-
 ---
+
+
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=lUH8Nl4AAAAJ&hl=en)
 
 Recent Publications
 ======
