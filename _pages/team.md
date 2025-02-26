@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Team members"
-permalink: /team/
+permalink: /
 author_profile: true
 redirect_from:
   - /team/
