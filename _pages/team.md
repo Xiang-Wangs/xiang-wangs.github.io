@@ -9,10 +9,10 @@ author_profile: true
 Our collaberators and members!
 
 ## Collaberators
-* <strong>Qian Liu</strong>
+### <strong>Qian Liu</strong>
 <div style="display: flex;">
   <!-- 左侧列：占三分之一 -->
-  <div style="flex: 1; padding: 10px; width: 20%;">
+  <div style="flex: 0 0 20%; padding: 10px;">
     <img src="/images/Qian_Liu_avatar.jpg" alt="Qian Liu" style="width: 200px; height: auto;" />
   </div>
   
