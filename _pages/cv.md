@@ -12,35 +12,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Medical Psychology (Clinical Cognitive Neuroscience), Central South University, 2024
+* M.S. in Psychology, Central South University, 2019
+* B.S. in Psychology, Lanzhou University, 2016 (Double-degress)
+* B.S. in Sociology, Lanzhou University, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* April 2024: Joint Ph.D.
+  * McGill University
+  * Supervisor: Dr. Xiangfei Meng
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* April 2024: Research Trainee
+  * Douglas Research Centre
+  * Supervisor: Dr. Xiangfei Meng
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* <strong>Psychometrics</strong>: Proficiency in the skills of psychometrics, including testing the reliability, validity as well as measurement invariance of psychological scales and their applications. 
+* <strong>Neurosciences</strong>: Familiar with various methods for magnetic resonance image (MRI) data analysis. (functional MRI, structural MRI), and proficiency in using MATLAB, SPM, FSL, Freesurfer software for data processing. 
+  * fMRI
+  * sMRI
+  * Machine Learning
+* <strong>Behavioral Research</strong>: : Be good at several methods for human behavioral research, including study design and data analysis. Proficiency in cross-sectional and longitudinal data analysis using SPSS, Stata, R and Mplus software.
 
 Publications
 ======
