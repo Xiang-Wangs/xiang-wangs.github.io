@@ -5,6 +5,8 @@ permalink: /team/
 author_profile: true
 ---
 
+Our collaberators and members!
+
 Collaberators
 ======
 * Qian Liu
