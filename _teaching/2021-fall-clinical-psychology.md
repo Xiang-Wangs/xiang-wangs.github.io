@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-clinical-psychology
 venue: "Central South University, Medical Psychological Center"
-date: 2021-09-15
+date: 2021-12-15
 location: "Changsha, CN"
 ---
 
