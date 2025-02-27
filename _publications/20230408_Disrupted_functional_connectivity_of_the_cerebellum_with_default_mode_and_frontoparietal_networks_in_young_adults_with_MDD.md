@@ -20,7 +20,7 @@ Highlights
 
 Dysconnectivity of Cerebellar-cerebral connectivity pattern
 ------
-![Dysconnectivity of Cerebellar-cerebral connectivity pattern](/images/Articles/Cerebellum_Figure2.jpg)
+![Dysconnectivity of Cerebellar-cerebral connectivity pattern](/images/articles/Cerebellum_Figure2.jpg)
 
 Abstract
 ======
