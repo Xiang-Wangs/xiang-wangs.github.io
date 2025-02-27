@@ -5,6 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
+### ***Find out about our project updates here!***
+
 # Recent work
 ## Unveiling the heterogeneity of major depressive disorder
 
