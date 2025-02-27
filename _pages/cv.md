@@ -28,7 +28,7 @@ redirect_from:
 * Frontiers in Psychiatry
 
 ## Peer-Reviewer
-|                                          |                                              |                                            |
+| Journal                                  | Journal                                      | Journal                                    |
 | ------------------------                 | ----------------------------                 | --------------------------------           |
 | Psychological Medicine                   | Depression and Anxiety                       | Journal of Affective Disorders             |
 | Asian Journal of Psychiatry              | BMC Psychiatry                               | European Journal of Psychotraumatology     |
