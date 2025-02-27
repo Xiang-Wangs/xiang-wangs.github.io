@@ -28,6 +28,11 @@ redirect_from:
 * Frontiers in Psychiatry
 
 ## Peer-Reviewer
+<div style="display: inline-block; width: 33%;">Psychological Medicine</div>
+<div style="display: inline-block; width: 33%;">Depression and Anxiety</div>
+<div style="display: inline-block; width: 33%;">Journal of Affective Disorders</div>
+
+
 | Journal                                  | Journal                                      | Journal                                    |
 | ------------------------                 | ----------------------------                 | --------------------------------           |
 | Psychological Medicine                   | Depression and Anxiety                       | Journal of Affective Disorders             |
