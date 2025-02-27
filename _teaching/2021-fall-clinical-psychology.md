@@ -11,11 +11,8 @@ location: "Changsha, CN"
 
 Teaching assistant of ***Clinical Psychology*** Course.
 
-Clinical Psychological Assessment
-======
+## Clinical Psychological Assessment
 
-Common Psychological Conditions
-======
+## Common Psychological Conditions
 
-Diagnosis, Prevention and Treatment
-======
+## Diagnosis, Prevention and Treatment
