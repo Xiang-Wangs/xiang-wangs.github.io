@@ -28,5 +28,5 @@ main:
   - title: "Team Members"
     url: /team/
 
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
