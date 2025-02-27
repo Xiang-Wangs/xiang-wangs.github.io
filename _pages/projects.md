@@ -19,12 +19,12 @@ The current project aims to ultilize a person-centered method to identify MDD su
 Environmental experiences in childhood and adolescence play a meaningful role in shaping health across the lifespan. It has been repeatedly established that exposure to traumatic experiences during this period is a risk factor for psychopathology. Most of the previous studies used the cumulative risk approach to establish the relationship between ACEs and depression, which focuses on the amount of ACEs exposure rather than the distinct types of ACEs. However, different types of ACEs may confer unique depression risks. Despite the cumulative risk approach effectively reflecting the “dose-response” relationship between ACEs and psychopathology and has been widely used, it generally lacks specificity, which shows obvious limitations in distinguishing between distinct types of ACEs. 
 
 <div style="display: flex;">
-  <!-- 左侧列：占三分之一 -->
+  <!-- 左侧列：占60% -->
   <div style="flex: 0 0 60%; padding: 10px;">
     <img src="/images/projects/ACEs.webp/" alt="ACEs" style="width: auto; height: 300px;" />
   </div>
   
-  <!-- 右侧列：占三分之二 -->
+  <!-- 右侧列：占40% -->
   <div style="flex: 2; padding: 10px;">
 <img src="/images/projects/ACEs_Consequences.jpg/" alt="ACEs_Consequences" style="width: auto; height: 300px;" />
   </div>
