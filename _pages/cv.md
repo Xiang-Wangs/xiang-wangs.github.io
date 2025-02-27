@@ -23,11 +23,14 @@ redirect_from:
 
 # Academic Roles
 ## Associate Editor
-* Frontiers in Psychology
-* Frontiers in Psychiatry
+  * Frontiers in Psychology
+  * Frontiers in Psychiatry
 ## Peer-Reviewer
-
-| Journal                                  | Journal                                      | Journal                                    |
+<div style="display: inline-block; width: 33%;">* Psychological Medicine</div>
+<div style="display: inline-block; width: 33%;">* Depression and Anxiety</div>
+<div style="display: inline-block; width: 33%;">* Journal of Affective Disorders</div>
+<br> <!-- Break to next line -->
+|                                          |                                              |                                            |
 | ------------------------                 | ----------------------------                 | --------------------------------           |
 | Psychological Medicine                   | Depression and Anxiety                       | Journal of Affective Disorders             |
 | Asian Journal of Psychiatry              | BMC Psychiatry                               | European Journal of Psychotraumatology     |
