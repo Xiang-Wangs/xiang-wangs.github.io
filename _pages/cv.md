@@ -23,17 +23,27 @@ redirect_from:
 
 # Academic Roles
 ### Associate Editor
-  * Frontiers in Psychology
-  * Frontiers in Psychiatry
+> Frontiers in Psychology
+* Frontiers in Psychiatry
 ### Peer-Reviewer
-  |                                          |                                              |                                            |
-  | ------------------------                 | ----------------------------                 | --------------------------------           |
-  | Psychological Medicine                   | Depression and Anxiety                       | Journal of Affective Disorders             |
-  | Asian Journal of Psychiatry              | BMC Psychiatry                               | European Journal of Psychotraumatology     |
-  | Journal of Psychiatric Research          | Journal of Medical Internet Research         | Psychological Reports                      |
-  | Australian Journal of Psychology         | World Journal of Psychiatry                  | Plos One                                   |
-  | Neuropsychiatric Disease and Treatment   | Journal of Integrative Neuroscience          | Sleep and Breathing                        |
-  | Frontiers in Psychology                  | Frontiers in Psychiatry                      | Frontiers in Endocrinology                 |
+* Psychological Medicine
+* Depression and Anxiety
+* Journal of Affective Disorders
+* Journal of Medical Internet Research
+* European Journal of Psychotraumatology
+* Asian Journal of Psychiatry
+* Journal of Psychiatric Research
+* Australian Journal of Psychology
+* World Journal of Psychiatry
+* BMC Psychiatry
+* Plos One
+* Psychological Reports
+* Neuropsychiatric Disease and Treatment
+* Journal of Integrative Neuroscience
+* Sleep and Breathing
+* Frontiers in Psychology
+* Frontiers in Psychiatry
+* Frontiers in Endocrinology
 
 # Publications
   <ul>{% for post in site.publications reversed %}
