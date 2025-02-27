@@ -35,24 +35,20 @@ redirect_from:
 | Neuropsychiatric Disease and Treatment   | Journal of Integrative Neuroscience          | Sleep and Breathing                        |
 | Frontiers in Psychology                  | Frontiers in Psychiatry                      | Frontiers in Endocrinology                 |
 
-Publications
-======
+# Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+# Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-<Teaching>
-======
+# Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<Service and leadership>
-======
+# Service and leadership
 * Currently signed in to 43 different slack teams
