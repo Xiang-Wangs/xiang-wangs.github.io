@@ -23,8 +23,7 @@ redirect_from:
 
 # Academic Roles
 ### Associate Editor
-> Frontiers in Psychology
-* Frontiers in Psychiatry
+> Frontiers in Psychology&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontiers in Psychiatry
 ### Peer-Reviewer
 * Psychological Medicine
 * Depression and Anxiety
