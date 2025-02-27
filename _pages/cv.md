@@ -22,9 +22,9 @@ redirect_from:
 * <strong>Behavioral Modeling</strong>: Skilled in various methodologies for human behavioral research, including experimental design, data collection, and statistical analysis. Proficient in analyzing cross-sectional and longitudinal data using behavioral modeling techniques.
 
 # Academic Roles
-### Associate Editor
-> Frontiers in Psychology&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontiers in Psychiatry
-### Peer-Reviewer
+## Associate Editor
+> Frontiers in Psychology&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontiers in Psychiatry
+## Peer-Reviewer
 * Psychological Medicine
 * Depression and Anxiety
 * Journal of Affective Disorders
