@@ -2,6 +2,7 @@
 title: "2024 Summer: Statistical Analysis for Longitudinal Study"
 collection: teaching
 type: "Workshop"
+Role: "Lecturer"
 permalink: /teaching/2024-Summer-GMMs
 venue: "Central South University, Medical Psychological Center"
 date: 2024-08-02
