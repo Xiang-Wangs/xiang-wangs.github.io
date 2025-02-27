@@ -1,5 +1,5 @@
 ---
-title: "2021 Fall Clinical Psychology"
+title: "2021 Fall: Clinical Psychology"
 collection: teaching
 type: "Undergraduate course"
 role: "Teaching assistant"
