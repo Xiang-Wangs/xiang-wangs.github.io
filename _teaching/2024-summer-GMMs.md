@@ -22,7 +22,6 @@ This is a description of a teaching experience. You can use markdown like any ot
 * Parallel model
 * Conditional model
 * Multiple group model
-* ...
 
 ## LGC modeling using Mplus
 * Mplus & prog. language
@@ -33,3 +32,4 @@ This is a description of a teaching experience. You can use markdown like any ot
 * Interpreting Output & Graphs
 
 ## Practice and guidance
+* Practice and Q&A
