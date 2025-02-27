@@ -13,7 +13,7 @@ Our collaborators and members!
 <div style="display: flex;">
   <!-- 左侧列：占三分之一 -->
   <div style="flex: 0 0 20%; padding: 10px;">
-    <img src="/images/Qian_Liu_avatar.jpg" alt="Qian Liu" style="width: 180px; height: auto;" />
+    <img src="/images/team/Qian_Liu_avatar.jpg" alt="Qian Liu" style="width: 180px; height: auto;" />
   </div>
   
   <!-- 右侧列：占三分之二 -->
@@ -27,7 +27,7 @@ Qian Liu is currently a Ph.D candidate at Medical Psychological Center, the Seco
 <div style="display: flex;">
   <!-- 左侧列：占三分之一 -->
   <div style="flex: 0 0 20%; padding: 10px;">
-    <img src="/images/Jingjie_Lu_avatar.jpg" alt="Jingjie Lu" style="width: 180px; height: auto;" />
+    <img src="/images/team/Jingjie_Lu_avatar.jpg" alt="Jingjie Lu" style="width: 180px; height: auto;" />
   </div>
   
   <!-- 右侧列：占三分之二 -->
