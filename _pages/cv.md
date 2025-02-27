@@ -22,22 +22,18 @@ redirect_from:
 * <strong>Behavioral Modeling</strong>: Skilled in various methodologies for human behavioral research, including experimental design, data collection, and statistical analysis. Proficient in analyzing cross-sectional and longitudinal data using behavioral modeling techniques.
 
 # Academic Roles
-## Associate Editor
+  ### Associate Editor
   * Frontiers in Psychology
   * Frontiers in Psychiatry
-## Peer-Reviewer
-<div style="display: inline-block; width: 33%;">* Psychological Medicine</div>
-<div style="display: inline-block; width: 33%;">* Depression and Anxiety</div>
-<div style="display: inline-block; width: 33%;">* Journal of Affective Disorders</div>
-<br> <!-- Break to next line -->
-|                                          |                                              |                                            |
-| ------------------------                 | ----------------------------                 | --------------------------------           |
-| Psychological Medicine                   | Depression and Anxiety                       | Journal of Affective Disorders             |
-| Asian Journal of Psychiatry              | BMC Psychiatry                               | European Journal of Psychotraumatology     |
-| Journal of Psychiatric Research          | Journal of Medical Internet Research         | Psychological Reports                      |
-| Australian Journal of Psychology         | World Journal of Psychiatry                  | Plos One                                   |
-| Neuropsychiatric Disease and Treatment   | Journal of Integrative Neuroscience          | Sleep and Breathing                        |
-| Frontiers in Psychology                  | Frontiers in Psychiatry                      | Frontiers in Endocrinology                 |
+  ### Peer-Reviewer
+  |                                          |                                              |                                            |
+  | ------------------------                 | ----------------------------                 | --------------------------------           |
+  | Psychological Medicine                   | Depression and Anxiety                       | Journal of Affective Disorders             |
+  | Asian Journal of Psychiatry              | BMC Psychiatry                               | European Journal of Psychotraumatology     |
+  | Journal of Psychiatric Research          | Journal of Medical Internet Research         | Psychological Reports                      |
+  | Australian Journal of Psychology         | World Journal of Psychiatry                  | Plos One                                   |
+  | Neuropsychiatric Disease and Treatment   | Journal of Integrative Neuroscience          | Sleep and Breathing                        |
+  | Frontiers in Psychology                  | Frontiers in Psychiatry                      | Frontiers in Endocrinology                 |
 
 # Publications
   <ul>{% for post in site.publications reversed %}
