@@ -22,7 +22,7 @@ Highlights
 
 Threat and Deprivation predict distinct depressive symptoms
 ------
-![Threat and Deprivation predict distinct depressive symptoms](/images/articles/LGCM_Figure.jpg)
+![Threat and Deprivation predict distinct depressive symptoms](/images/publications/LGCM_Figure.jpg)
 
 
 Abstract
