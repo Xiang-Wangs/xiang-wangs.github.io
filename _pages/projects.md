@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Recent Projects
+# Recent work
 ## Unveiling the heterogeneity of major depressive disorder
 
 The heterogeneity of major depressive disorder (MDD) significantly hinders its diagnosis, effective clinical management, as well as patient-centered recovery paths. Numerous studies have attempted to uncover the heterogeneity of MDD using data-driven approaches to classify MDD biotypes based on various information, including symptomatology, medication response and multi-level biomarkers. Despite these findings hold promise in terms of clinical value, the clinical translation remains challenging due to rich biological information is often difficult to obtain in clinical practice and may not be feasible for accurately distinguishing subtypes at the individual level. As a result, clinicians may not be able to directly benefit from the findings of MDD biotypes in their practice, leaving ongoing challenges in fully unveiling heterogeneity of MDD and its clinical translation.
@@ -19,12 +19,12 @@ Environmental experiences in childhood and adolescence play a meaningful role in
 <div style="display: flex;">
   <!-- 左侧列：占三分之一 -->
   <div style="flex: 0 0 60%; padding: 10px;">
-    <img src="/images/projects/ACEs.webp/" alt="ACEs" style="width: auto; height: 200px;" />
+    <img src="/images/projects/ACEs.webp/" alt="ACEs" style="width: auto; height: 300px;" />
   </div>
   
   <!-- 右侧列：占三分之二 -->
   <div style="flex: 2; padding: 10px;">
-<img src="/images/projects/ACEs_Consequences.jpg/" alt="ACEs_Consequences" style="width: auto; height: 200px;" />
+<img src="/images/projects/ACEs_Consequences.jpg/" alt="ACEs_Consequences" style="width: auto; height: 300px;" />
   </div>
 </div>
 
