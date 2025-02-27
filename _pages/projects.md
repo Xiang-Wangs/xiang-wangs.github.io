@@ -24,7 +24,7 @@ Environmental experiences in childhood and adolescence play a meaningful role in
   
   <!-- 右侧列：占三分之二 -->
   <div style="flex: 2; padding: 10px;">
-<img src="/images/projects/ACEs_Consequences.ipg/" alt="ACEs_Consequences" style="width: auto; height: 200px;" />
+<img src="/images/projects/ACEs_Consequences.jpg/" alt="ACEs_Consequences" style="width: auto; height: 200px;" />
   </div>
 </div>
 
