@@ -9,32 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
-
 Education
 ======
-* Ph.D. in Medical Psychology (Clinical Cognitive Neuroscience), Central South University, 2024
-* M.S. in Psychology, Central South University, 2019
-* B.S. in Psychology, Lanzhou University, 2016 (Double-degress)
-* B.S. in Sociology, Lanzhou University, 2016
-
-Work experience
-======
-* April 2024: Joint Ph.D.
-  * McGill University
-  * Supervisor: Dr. Xiangfei Meng
-
-* April 2024: Research Trainee
-  * Douglas Research Centre
-  * Supervisor: Dr. Xiangfei Meng
+* Joint Ph.D. in Psychiatry, [McGill University](https://www.mcgill.ca/) and the [Douglas Research Centre](https://douglas.research.mcgill.ca), 2024
+* Ph.D. in Medical Psychology (Clinical Cognitive Neuroscience), [Central South University](https://en.csu.edu.cn/), 2024
+* M.Sc. in Psychology (Clinical Psychology and Psychothreapy), [Central South University](https://en.csu.edu.cn/), 2019
+* B.Sc. in Psychology (Health Psychology), [Lanzhou University](https://en.lzu.edu.cn/), 2016 (Double-degree)
+* B.Sc. in Sociology (Psychosocial Sociology), [Lanzhou University](https://en.lzu.edu.cn/), 2016
  
 Skills
 ======
-* <strong>Psychometrics</strong>: Proficiency in the skills of psychometrics, including testing the reliability, validity as well as measurement invariance of psychological scales and their applications. 
-* <strong>Neurosciences</strong>: Familiar with various methods for magnetic resonance image (MRI) data analysis. (functional MRI, structural MRI), and proficiency in using MATLAB, SPM, FSL, Freesurfer software for data processing. 
-  * fMRI
-  * sMRI
-  * Machine Learning
-* <strong>Behavioral Research</strong>: : Be good at several methods for human behavioral research, including study design and data analysis. Proficiency in cross-sectional and longitudinal data analysis using SPSS, Stata, R and Mplus software.
+* <strong>Psychometrics</strong>: Expertise in psychometric methods, including the assessment of reliability, validity, and measurement invariance of psychological scales, alongside their practical applications in research and clinical settings.
+* <strong>Neurosciences</strong>: Proficient in advanced techniques for the analysis of magnetic resonance imaging (MRI) data, including functional MRI (fMRI) and structural MRI (sMRI). Experienced with software tools such as MATLAB, SPM, FSL, and FreeSurfer for comprehensive data processing and analysis.
+* <strong>Behavioral Modeling</strong>: Skilled in various methodologies for human behavioral research, including experimental design, data collection, and statistical analysis. Proficient in analyzing cross-sectional and longitudinal data using behavioral modeling techniques.
+
+Academic Roles
+======
+Associate Editor
+------
+* Frontiers in Psychology
+* Frontiers in Psychiatry
+
+Peer-Reviewer
+------
+| Psychological Medicine   | Depression and Anxiety       | Journal of Affective Disorders   |
+| ------------------------ | ---------------------------- | -------------------------------- |
+| European Journal of Psychotraumatology | Asian Journal of Psychiatry | BMC Psychiatry  |
+
+* Depression and Anxiety
+* Journal of Affective Disorders
+* European Journal of Psychotraumatology
+* Asian Journal of Psychiatry
+
+* 
+* BMC Psychiatry
+
 
 Publications
 ======
@@ -48,12 +57,12 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<Teaching>
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<Service and leadership>
 ======
 * Currently signed in to 43 different slack teams
