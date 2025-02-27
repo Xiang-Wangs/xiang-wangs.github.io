@@ -28,7 +28,7 @@ redirect_from:
 * Psychological Medicine
 * Depression and Anxiety
 * Journal of Affective Disorders
-* Journal of Medical Internet Research
+* Journal of Medical Internet Research.
 * European Journal of Psychotraumatology
 * Asian Journal of Psychiatry
 * Journal of Psychiatric Research
