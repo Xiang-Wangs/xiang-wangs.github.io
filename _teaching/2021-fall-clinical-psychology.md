@@ -1,5 +1,5 @@
 ---
-title: "2021 Fall: Clinical Psychology"
+title: "2021 Fall: Clinical PsychologyⅠ"
 collection: teaching
 type: "Undergraduate course"
 role: "Teaching assistant"
@@ -11,8 +11,10 @@ location: "Changsha, CN"
 
 Teaching assistant of ***Clinical Psychology*** Course.
 
-## Clinical Psychological Assessment
+# Clinical PsychologyⅠ
+Clinical psychology is one of the branches of psychology. Clinical psychology not only provides psychologists with general psychological knowledge, but also supervises them using the related knowledge to understand and promote the mental health, physical health, and social adaptation in human being. Clinical psychology is a discipline of applied psychology, which emphasizes a solid scientific foundation and pays attention to solving actual psychological problems. Therefore, science-practice is the scientific characteristics of Clinical psychology. In practice, clinical psychology emphasizes three core tasks which include psychological evaluation, psychological counseling, treatment and prevention of psychopathological problems in clinical context.
+### Clinical Psychological Assessment
 
-## Common Psychological Conditions
+### Common Psychological Conditions
 
-## Diagnosis, Prevention and Treatment
+### Diagnosis, Prevention and Treatment
