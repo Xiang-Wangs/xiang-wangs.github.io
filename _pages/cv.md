@@ -32,17 +32,11 @@ Associate Editor
 
 Peer-Reviewer
 ------
-| Psychological Medicine   | Depression and Anxiety       | Journal of Affective Disorders   |
+|                          |                              |                                  |
 | ------------------------ | ---------------------------- | -------------------------------- |
+| Psychological Medicine   | Depression and Anxiety       | Journal of Affective Disorders   |
 | European Journal of Psychotraumatology | Asian Journal of Psychiatry | BMC Psychiatry  |
-
-* Depression and Anxiety
-* Journal of Affective Disorders
-* European Journal of Psychotraumatology
-* Asian Journal of Psychiatry
-
-* 
-* BMC Psychiatry
+| Journal of Psychiatric Research | Journal of Medical Internet Research | Psychological Reports |
 
 
 Publications
