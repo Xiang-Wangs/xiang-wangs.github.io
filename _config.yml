@@ -30,9 +30,8 @@ author:
   location         : "QC, Canada"
   employer         : "McGill University"
   uri              : # URL
-  email            : "&#120;&#105;&#97;&#110;&#46;&#119;&#97;&#110;&#103;&#64;&#109;&#97;&#105;&#108;&#108;&#46;&#109;&#99;&#103;&#105;&#108;&#108;&#46;&#99;&#97;" 
-  # HTML entity encoding --- use https://mothereff.in/html-entities for example.
-
+  email            : "xiang.wang@mail.mcgill.ca" 
+  
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   orcid            : "https://orcid.org/0000-0003-0994-8124"
