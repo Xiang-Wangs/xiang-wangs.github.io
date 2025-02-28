@@ -9,8 +9,6 @@ date: 2024-08-02
 location: "Changsha, CN"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
 # Latent Growth Curve (Trajectory) Modeling for Longitudinal Data using Mplus: Introduction and Practice
 ## Longitudinal Data Analyses Methods
 * Traditional methods
