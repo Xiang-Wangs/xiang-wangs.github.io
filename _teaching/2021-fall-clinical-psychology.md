@@ -8,11 +8,7 @@ venue: "Central South University, Medical Psychological Center"
 date: 2021-12-15
 location: "Changsha, CN"
 ---
-
-Teaching assistant of ***Clinical Psychology*** Course.
-
-# Clinical Psychology Ⅰ
-Clinical psychology is one of the branches of psychology. Clinical psychology not only provides psychologists with general psychological knowledge, but also supervises them using the related knowledge to understand and promote the mental health, physical health, and social adaptation in human being. Clinical psychology is a discipline of applied psychology, which emphasizes a solid scientific foundation and pays attention to solving actual psychological problems. Therefore, science-practice is the scientific characteristics of Clinical psychology. In practice, clinical psychology emphasizes three core tasks which include psychological evaluation, psychological counseling, treatment and prevention of psychopathological problems in clinical context.
+***Clinical psychology*** is one of the branches of psychology. Clinical psychology not only provides psychologists with general psychological knowledge, but also supervises them using the related knowledge to understand and promote the mental health, physical health, and social adaptation in human being. Clinical psychology is a discipline of applied psychology, which emphasizes a solid scientific foundation and pays attention to solving actual psychological problems. Therefore, science-practice is the scientific characteristics of Clinical psychology. In practice, clinical psychology emphasizes three core tasks which include psychological evaluation, psychological counseling, treatment and prevention of psychopathological problems in clinical context.
 ## Content
 ### 1. Introduction to clinical psychology and theoretical model
 ### 2. Psychological assessment theory and common techniques
