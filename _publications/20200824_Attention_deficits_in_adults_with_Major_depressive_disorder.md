@@ -9,7 +9,7 @@ venue: 'Asian Journal of Psychiatry'
 #slidesurl: 'http://xiang-wangs.github.io/files/slides1.pdf'
 paperurl: 'http://xiang-wangs.github.io/files/20200824_Attention_deficits_in_adults_with_Major_depressive_disorder.pdf'
 onlineurl: 'https://www.sciencedirect.com/science/article/pii/S187620182030472X?via%3Dihub'      
-citation: '<strong>Wang X.</strong>, Zhou H., Zhu X., et al. (2020). &quot;Attention deficits in adults with Major depressive disorder: A systematic review and meta-analysis.&quot; <i>Asian Journal of Psychiatry</i>. 53:102359.'
+citation: '<strong>Wang X.</strong>, Zhou H., Zhu X., et al. (2020). Attention deficits in adults with Major depressive disorder: A systematic review and meta-analysis. <i>Asian Journal of Psychiatry</i>. 53:102359.'
      
 ---
 Highlights
