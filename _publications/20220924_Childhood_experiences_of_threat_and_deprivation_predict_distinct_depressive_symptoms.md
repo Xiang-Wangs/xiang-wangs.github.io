@@ -9,7 +9,7 @@ venue: 'Journal of Affective Disorders'
 #slidesurl: 'http://xiang-wangs.github.io/files/slides1.pdf'
 paperurl: 'http://xiang-wangs.github.io/files/20220924_Childhood_experiences_of_threat_and_deprivation_predict_distinct_depressive_symptoms.pdf'
 onlineurl: 'https://www.sciencedirect.com/science/article/pii/S0165032722010667?via%3Dihub'      
-citation: '<strong>Wang X.</strong>, Lu J., Liu Q., et al. (2022). &quot;Childhood experiences of threat and deprivation predict distinct depressive symptoms: A parallel latent growth curve model.&quot; <i>Journal of Affective Disorders</i>. 319:244-251.'
+citation: '<strong>Wang X.</strong>, Lu J., Liu Q., et al. (2022). Childhood experiences of threat and deprivation predict distinct depressive symptoms: A parallel latent growth curve model. <i>Journal of Affective Disorders</i>. 319:244-251.'
      
 ---
 Highlights
