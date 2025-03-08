@@ -9,7 +9,7 @@ venue: 'Journal of Psychiatric Research'
 #slidesurl: 'http://xiang-wangs.github.io/files/slides1.pdf'
 paperurl: 'http://xiang-wangs.github.io/files/20220731_Decreased_functional_coupling_within_default_mode_network_in_MDD_with_CT.pdf'
 onlineurl: 'https://www.sciencedirect.com/science/article/pii/S0022395622004289?via%3Dihub'      
-citation: '<strong>Wang X.</strong>, Liu Q., Fan J., et al. (2022). &quot;Decreased functional coupling within default mode network in major depressive disorder with childhood trauma.&quot; <i>Journal of Psychiatric Research</i>. 154:61-70.'
+citation: '<strong>Wang X.</strong>, Liu Q., Fan J., et al. (2022). Decreased functional coupling within default mode network in major depressive disorder with childhood trauma. <i>Journal of Psychiatric Research</i>. 154:61-70.'
      
 ---
 Highlights
