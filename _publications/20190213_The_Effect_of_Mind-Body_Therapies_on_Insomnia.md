@@ -8,12 +8,8 @@ date: 2019-02-13
 venue: 'Evidence-Based Complementray and Alternative Medicine'
 #slidesurl: 'http://xiang-wangs.github.io/files/slides1.pdf'
 paperurl: 'http://xiang-wangs.github.io/files/20190213_The_Effect_of_Mind-Body_Therapies_on_Insomnia.pdf'
-onlineurl: 'https://onlinelibrary.wiley.com/doi/10.1155/2019/9359807
-        
-        
-        
-        '      
-citation: '<strong>Wang X.</strong>, Li P., Pan C., et al. (2019). &quot;The Effect of Mind-Body Therapies on Insomnia: A Systematic Review and Meta-Analysis.&quot; <i>Evidence-Based Complementray and Alternative Medicine</i>. 2019:9359807.'  
+onlineurl: 'https://onlinelibrary.wiley.com/doi/10.1155/2019/9359807'      
+citation: '<strong>Wang X.</strong>, Li P., Pan C., et al. (2019). The Effect of Mind-Body Therapies on Insomnia: A Systematic Review and Meta-Analysis. <i>Evidence-Based Complementray and Alternative Medicine</i>. 2019:9359807.'  
 ---
 
 Abstract
