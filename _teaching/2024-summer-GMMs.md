@@ -8,8 +8,8 @@ venue: "Central South University, Medical Psychological Center"
 date: 2024-08-02
 location: "Changsha, CN"
 ---
+Latent Growth Curve (Trajectory) Modeling for Longitudinal Data using Mplus: Introduction and Practice
 
-## Latent Growth Curve (Trajectory) Modeling for Longitudinal Data using Mplus: Introduction and Practice
 ### Longitudinal Data Analyses Methods
 * Traditional methods
 * Growth modeling
