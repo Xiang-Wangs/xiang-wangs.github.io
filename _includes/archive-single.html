@@ -53,13 +53,13 @@
     {% endif %}
     
     {% if post.citation and post.paperurl and post.onlineurl %}
-      <p><strong><em>Citation:</em></strong> {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.onlineurl }}">Read Online</a></p>
+      <p><em>Recommended citation:</em> {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.onlineurl }}">Read Online</a></p>
     {% elsif post.citation and post.paperurl %}
-      <p><strong><em>Citation:</em></strong> {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
+      <p><em>Recommended citation:</em> {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
     {% elsif post.citation and post.onlineurl %}
-      <p><strong><em>Citation:</em></strong> {{ post.citation }}<br /><a href="{{ post.onlineurl }}">Read Online</a></p>
+      <p><em>Recommended citation:</em> {{ post.citation }}<br /><a href="{{ post.onlineurl }}">Read Online</a></p>
     {% elsif post.citation %}
-      <p><strong><em>Citation:</em></strong> {{ post.citation }}</p>
+      <p><em>Recommended citation:</em> {{ post.citation }}</p>
     {% elsif post.paperurl %}
       <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
     {% elsif post.onlineurl %}
