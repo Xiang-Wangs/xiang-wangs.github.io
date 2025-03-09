@@ -33,7 +33,7 @@ Qian Liu is currently a Ph.D candidate at Medical Psychological Center, the Seco
   <!-- 右侧列：占三分之二 -->
   <div style="flex: 2; padding: 10px;">
 <strong>Jingjie Lu</strong><br>   
-Jingjie Lu, M.Sc. in Psychology from Central South Univeristy (2023), is currently a psychothreapist of the <a href="https://www.gzbrain.cn/">Affiliated Brain Hospital of Guangzhou Medical University</a>. She is also the person in charge of psychological assessment system in the <strong>Child and Adolescent Psychotherapy and Assessment Center</strong>. Jingjie specializes in psychological assessment for children and adolescents with affective and / or developmental disorders, dialectical behavioral therapy, social skills training, etc. 
+Jingjie Lu, M.Sc. in Psychology from Central South Univeristy (2023), is currently a psychothreapist of the <a href="https://www.gzbrain.cn/">Affiliated Brain Hospital of Guangzhou Medical University</a>. She is also the person in charge of psychological assessment system in the <i>Child and Adolescent Psychotherapy and Assessment Center</i>. Jingjie specializes in psychological assessment for children and adolescents with affective and / or developmental disorders, dialectical behavioral therapy, social skills training, etc. 
   </div>
 </div>
 
