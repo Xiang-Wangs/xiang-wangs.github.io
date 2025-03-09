@@ -14,7 +14,7 @@ redirect_from:
 * Ph.D. in Medical Psychology (Clinical Cognitive Neuroscience), [Central South University](https://en.csu.edu.cn/), 2024
 * M.Sc. in Psychology (Clinical Psychology and Psychothreapy), [Central South University](https://en.csu.edu.cn/), 2019
 * B.Sc. in Psychology (Health Psychology), [Lanzhou University](https://en.lzu.edu.cn/), 2016 (Double-degree)
-* B.Sc. in Sociology (Psychosocial Sociology), [Lanzhou University](https://en.lzu.edu.cn/), 2016
+* B.A. in Sociology (Psychosocial Sociology), [Lanzhou University](https://en.lzu.edu.cn/), 2016
  
 # Skills
 * <strong>Psychometrics</strong>: Expertise in psychometric methods, including the assessment of reliability, validity, and measurement invariance of psychological scales, alongside their practical applications in research and clinical settings.
