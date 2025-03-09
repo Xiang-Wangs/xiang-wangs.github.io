@@ -47,7 +47,7 @@ Jingjie Lu, M.Sc. in Psychology from Central South Univeristy (2023), is current
   <!-- 右侧列：占三分之二 -->
   <div style="flex: 2; padding: 10px;">
 <strong>Tamini Soondrum</strong><br>   
-Tamini Soondrum, M.Sc. in Clinical Psychology from Central South University (2022). She now serves as a clinical psychologist in the (<a href="https://health.govmu.org/health/">Ministry of Health and Wellness, Mauritius</a>), and leads psychological care for individuals living with substance use disorders, providing comprehensive mental health support and treatment. With expertise in psychological assessment, she is trained in various psychotherapeutic approaches, including Cognitive Behavioral Therapy (CBT), Acceptance and Commitment Therapy (ACT), and Exposure and Response Prevention (ERP). 
+Tamini Soondrum, M.Sc. in Clinical Psychology from Central South University (2022). She now serves as a clinical psychologist in the <a href="https://health.govmu.org/health/">Ministry of Health and Wellness, Mauritius</a>, and leads psychological care for individuals living with substance use disorders, providing comprehensive mental health support and treatment. With expertise in psychological assessment, she is trained in various psychotherapeutic approaches, including Cognitive Behavioral Therapy (CBT), Acceptance and Commitment Therapy (ACT), and Exposure and Response Prevention (ERP). 
   </div>
 </div>
 
