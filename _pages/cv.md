@@ -33,9 +33,11 @@ redirect_from:
 * Asian Journal of Psychiatry
 * Journal of Psychiatric Research
 * Australian Journal of Psychology
+* European Archives of Psychiatry and Clinical Neuroscience
 * World Journal of Psychiatry
 * BMC Psychiatry
 * Plos One
+* Acta Psychologica
 * Psychological Reports
 * Neuropsychiatric Disease and Treatment
 * Journal of Integrative Neuroscience
