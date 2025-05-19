@@ -32,16 +32,19 @@ redirect_from:
 * Journal of Affective Disorders
 * Journal of Medical Internet Research.
 * European Journal of Psychotraumatology
+* Progress in Neuropsychopharmacology & Biological Psychiatry
+* European Archives of Psychiatry and Clinical Neuroscience
 * Asian Journal of Psychiatry
 * Journal of Psychiatric Research
 * Australian Journal of Psychology
-* European Archives of Psychiatry and Clinical Neuroscience
 * World Journal of Psychiatry
 * BMC Psychiatry
 * Plos One
 * Acta Psychologica
+* Current Psychology
 * Psychological Reports
 * Neuropsychiatric Disease and Treatment
+* European Journal of Integrative Medicine
 * Journal of Integrative Neuroscience
 * Sleep and Breathing
 * Frontiers in Psychology
