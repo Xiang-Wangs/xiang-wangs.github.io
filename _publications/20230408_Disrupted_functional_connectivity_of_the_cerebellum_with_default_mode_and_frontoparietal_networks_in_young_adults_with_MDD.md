@@ -9,7 +9,7 @@ venue: 'Psychiatry Research'
 #slidesurl: 'http://xiang-wangs.github.io/files/slides1.pdf'
 paperurl: 'http://xiang-wangs.github.io/files/20230408_Disrupted_functional_connectivity_of_the_cerebellum_with_default_mode_and_frontoparietal_networks_in_young_adults_with_MDD.pdf'
 onlineurl: 'https://www.sciencedirect.com/science/article/pii/S0165178123001439?via%3Dihub'      
-citation: '<strong>Wang X.</strong>, Xia J., Wang W., et al. (2024). Disrupted functional connectivity of the cerebellum with default mode and frontoparietal networks in young adults with major depressive disorder. <i>Psychiatry Research</i>. 324:115192.'
+citation: '<strong>Wang, X.</strong>, Xia, J., Wang, W., et al. (2024). Disrupted functional connectivity of the cerebellum with default mode and frontoparietal networks in young adults with major depressive disorder. <i>Psychiatry Research</i>. 324:115192.'
      
 ---
 Highlights
