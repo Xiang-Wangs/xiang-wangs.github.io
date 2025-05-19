@@ -9,7 +9,7 @@ venue: 'Neuropsychiatric Disease and Treatment'
 #slidesurl: 'http://xiang-wangs.github.io/files/slides1.pdf'
 paperurl: 'http://xiang-wangs.github.io/files/20181221_The_factor_structure_reliability_and_validity_of_the_Chinese_version_of_the_VDAS'
 onlineurl: 'https://www.dovepress.com/the-factor-structure-reliability-and-validity-of-the-chinese-version-o-peer-reviewed-fulltext-article-NDT'      
-citation: '<strong>Wang X.</strong>, Dai L., Yin M., et al. (2018). The factor structure, reliability and validity of the Chinese version of the Van Dream Anxiety Scale. <i>Neuropsychiatric Disease and Treatment</i>. 15:57-67.' 
+citation: '<strong>Wang, X.</strong>, Dai, L., Yin, M., et al. (2018). The factor structure, reliability and validity of the Chinese version of the Van Dream Anxiety Scale. <i>Neuropsychiatric Disease and Treatment</i>. 15:57-67.' 
 
 ---
 
