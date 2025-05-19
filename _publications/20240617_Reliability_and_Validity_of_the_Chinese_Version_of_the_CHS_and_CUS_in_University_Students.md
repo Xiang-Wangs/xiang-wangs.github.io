@@ -8,12 +8,12 @@ date: 2024-06-17
 venue: 'Chinese Journal of Clinical Psychology'
 paperurl: 'http://xiang-wangs.github.io/files/20240617_Reliability_and_Validity_of_the_Chinese_Version_of_the_CHS_and_CUS_in_University_Students.pdf'
 onlineurl: 'https://link.cnki.net/urlid/43.1214.R.20240614.1444.018'  
-citation: '<strong>Wang X.</strong>, Fan J., Lu J. (2024). Reliability and Validity of the Chinese Version of the Childhood Harshness Scale and Unpredictability Scale in University Students. <i>Chinese Journal of Clinical Psychology</i>. 32(3):588-594.'
+citation: '<strong>Wang, X.</strong>, Fan, J., Lu, J., et al. (2024). Reliability and Validity of the Chinese Version of the Childhood Harshness Scale and Unpredictability Scale in University Students. <i>Chinese Journal of Clinical Psychology</i>. 32(3):588-594.'
 ---
 
 This article was published in Chinese
 ------
-<strong>王向</strong>, 樊洁, 卢京洁. (2024). &quot;中文版童年期严酷性量表和不可预测性量表在大学生中的信效度.&quot; <i>中国临床心理学杂志</i>. 32(3):588-594.
+<strong>王向</strong>, 樊洁, 卢京洁, 等. (2024). &quot;中文版童年期严酷性量表和不可预测性量表在大学生中的信效度.&quot; <i>中国临床心理学杂志</i>. 32(3):588-594.
 
 Abstract
 ------
