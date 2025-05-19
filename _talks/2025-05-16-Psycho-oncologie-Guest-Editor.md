@@ -1,11 +1,11 @@
 ---
 title: "Call for Papers: Psychological, Social, and Nursing Determinants of Cancer Outcomes: Integrative and Mechanistic Perspectives"
 collection: talks
-type: "Special issue"
+type: "Guest Editor for Special Issue"
 permalink: /talks/2025-05-16-Psycho-oncologie-Guest-Editor
-venue: "Psycho-oncologie"
+venue: "Psycho-Oncologie"
 date: 2025-05-16
-location: "Psycho-oncologie Editorial Office"
+location: "Psycho-Oncologie Editorial Office"
 ---
 [Read Detail](https://ojs.piscomed.com/index.php/PO/SI-11)
 
