@@ -7,7 +7,7 @@ venue: "Psycho-oncologie"
 date: 2025-05-16
 location: "Psycho-oncologie Editorial Office"
 ---
-[Read Detail](/talks/2025-05-16-Psycho-oncologie-Guest-Editor)
+[Read Detail](https://ojs.piscomed.com/index.php/PO/SI-11)
 
 ![Psycho-oncologie_SI-Banner](/images/events/Psycho-oncologie_SI-Banner.png)
 
