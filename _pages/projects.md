@@ -16,7 +16,7 @@ The current project aims to ultilize a person-centered method to identify MDD su
 
 Relevant publications:
 
-<a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00200-2/fulltext">Wang X., Su Y., Liu Q., et al. (2025). Unveiling diverse clinical symptom patterns and neural activity profiles in major depressive disorder subtypes. eBioMedicine. 116:105756</a>
+<a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00200-2/fulltext">Wang, X., Su, Y., Liu, Q., et al. (2025). Unveiling diverse clinical symptom patterns and neural activity profiles in major depressive disorder subtypes. eBioMedicine. 116:105756.</a>
 
 ## Adversed Childhood Experiences in neuropsychiatric disorders across the life span
 
