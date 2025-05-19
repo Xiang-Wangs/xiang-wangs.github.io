@@ -22,6 +22,8 @@ redirect_from:
 * <strong>Behavioral Modeling</strong>: Skilled in various methodologies for human behavioral research, including experimental design, data collection, and statistical analysis. Proficient in analyzing cross-sectional and longitudinal data using behavioral modeling techniques.
 
 # Academic Roles
+> ## Guest Editor
+> Psycho-Oncologie (for a [Special issue](https://ojs.piscomed.com/index.php/PO/SI-11))
 > ## Associate Editor
 > Frontiers in Psychology&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontiers in Psychiatry
 > ## Peer-Reviewer
