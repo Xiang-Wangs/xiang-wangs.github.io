@@ -20,5 +20,5 @@ In my free time, I enjoy traveling, hiking, swiming, among many other things.
 I am currently serving as guest editor of ***Psycho-Oncologie*** for a special issue, entitled "[***Psychological, Social, and Nursing Determinants of Cancer Outcomes: Integrative and Mechanistic Perspectives***](https://po.piscomed.com/index.php/PO/SI-11)". We welcome submissions of insightful articles from researchers in related fields！
 
 
-
-<a href="https://mapmyvisitors.com/web/1c0pd"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=NBnKOnLeaNg8Bm-5xr_xNgECwY3zH6wUPkKWiqRNSfY&cl=ffffff" /></a>
+## Pageviews
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=TotgUc16tGNawSb8uG8ApnWC8tMLjeLuiR0R0d9Wb8w'></script>
