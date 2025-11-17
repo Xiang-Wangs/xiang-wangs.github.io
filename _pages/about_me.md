@@ -21,4 +21,5 @@ I am currently serving as guest editor of ***Psycho-Oncologie*** for a special i
 
 
 ## Pageviews
+<div id="mmvst_globe_container" style="width:500px;height:500px;"></div>
 <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=lLrWBJ0pKc6yJYUYM0jFHfDX_AuzUXRsr3qg7TOivqI"></script>
